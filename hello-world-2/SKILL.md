@@ -1,5 +1,5 @@
 ---
-name: hello-world
+name: hello-world-2
 description: A simple demonstration skill that greets users. Use when testing skill functionality or when the user asks for a hello world example.
 ---
 
